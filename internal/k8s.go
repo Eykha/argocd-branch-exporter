@@ -1,2 +1,0 @@
-// Source:
-// https://github.com/kubernetes/client-go/blob/master/examples/in-cluster-client-configuration/main.go

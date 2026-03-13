@@ -13,6 +13,7 @@ This information can then be used for alerting. Fo example, if the branch is `ho
 
 - [ ] Figure out how to export any merics at all
 - [ ] Figure out how to interact with the Kubernetes API
+    - https://github.com/kubernetes/client-go/blob/master/examples/in-cluster-client-configuration/main.go
 - [ ] Figure out how proper testing works in golang
 - [ ] Figure out how to work with `make`
 - [ ] Figure out how to package this in a container
